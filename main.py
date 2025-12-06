@@ -1,5 +1,5 @@
-def welcome():
+def main():
     print("Welcome to Git Assignment")
 
-welcome()
+main()
 
