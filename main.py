@@ -1,7 +1,7 @@
 from datetime import datetime
 
 def main():
-    print("Welcome to Git Assignment")
+    print("Welcome to malawach Assignment")
     print("Created by: Eden")
     now = datetime.now()
     print("Current date and time:", now)
